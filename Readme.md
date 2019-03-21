@@ -2,9 +2,9 @@
  My shallow neural network for iris dataset classification acheives 97% accuracy on SDSlabs'cerebro Iris dataset </br>
  neural net architecture is 4->[linear+Relu]->16->[linear+sigmoid]->3
 <h3>Indexes for output</h3>
-<ol><li>0 -> Iris-Versicolor </li>
+<ul><li>0 -> Iris-Versicolor </li>
  <li>1 -> Iris-Setosa</li>
- <li>2 -> Iris-Virginica</li></ol>
+ <li>2 -> Iris-Virginica</li></ul>
  
  
 </br>
