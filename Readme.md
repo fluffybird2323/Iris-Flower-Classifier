@@ -1,4 +1,4 @@
-<h1>Fluf and his Iris Flowers</h1>
+<h1>Iris Flower Classifier</h1>
 
 <img src="https://github.com/fluffybird2323/Fluf-and-his-Iris-Flowers/blob/master/iris_three_species.jpg">
  My shallow neural network notebook for iris dataset classification acheives 97% accuracy on SDSlabs'cerebro Iris dataset </br>
